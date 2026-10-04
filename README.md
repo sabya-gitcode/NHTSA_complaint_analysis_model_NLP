@@ -1,4 +1,3 @@
-# NHTSA_complaint_analysis_model_NLP
 
 # Automotive Complaint Intelligence
 
